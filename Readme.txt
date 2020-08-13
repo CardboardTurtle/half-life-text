@@ -1,11 +1,19 @@
 =========={THANK YOU FOR DOWNLOADING MY GAME!}==========
-As a fan of the Half Life series, and of a twitch streamer/youtuber "Jolly Wangcore," I thought that since I was learning C programming, I should put my skills to the test and create a full game. Of course, I'm bad at programming, so something simple and easy to write like a text adventure game was the obvious choice for practicing my programming skills, as well as creating something that people may enjoy.
+As a fan of the Half Life series and old text adventure games from the 80's, I wanted to combine the two and make "Half-Life Text." Plus, I'm just starting out with programming, so I needed something simple to create for practice, but also something that I could be proud of.
 
-This game was entirely written in the C programming language, and from a beginner, who, when this project started, only had a week or two experience. This game is a testament to how easy it is to learn programming, as well as how good the C programming language is. it is the best language. do not question me on this or i will be moderately upset.
-
-This next section is the start of the story. Feel free to skip it if you have already played the game. You start the game inside the tram.
+This game was entirely written in the C programming language, and from a beginner programmer who, when this project started, only had a week or two experience. This game is a testament to how good the C programming language is. it is the best language. do not question me on this, or else I will be moderately upset.
 
 Also, use Linux.
+
+=========={HOW TO COMPILE AND RUN THE GAME}==========
+
+The game is not compiled. This way, its easy to get it to work on just about any platform, even a Wii! Just follow one of the guides below.
+
+If you are on Linux, follow this guide: https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
+
+If you are on Windows, follow this guide: https://medium.com/@randerson112358/how-to-run-c-program-in-command-prompt-e435186cd162
+
+If you are on Mac, install Linux or Windows, preferably Linux.https://www.lifewire.com/beginners-guide-to-linux-4090233
 
 =========={HOW TO PLAY (VERY very VERY very VERY very IMPORTANT)}==========
 
@@ -13,17 +21,17 @@ Don't be an idiot, you will likely die.
 
 Don't use spaces. everything will be one word. "walk to door" becomes "walktodoor." This is because i'm bad at programming and only know how to do this. In later revisions, i might change that.
 
-TO MOVE: type "walkto" and then what you want to walk to. "walktodoor", "walktodesk", "walktoantimassspectrometer", etc.
+TO MOVE: type "walkto" and then what you want to walk to. "walktodoor", "walktoscientist", etc.
 
-TO GRAB/TAKE: type "grab" and then the option. "grabglock", "grabcart", "grabpenis", etc.
+TO GRAB/TAKE: type "grab" and then the option. "grabpistol," "grabhevsuit", etc.
 
-TO SHOOT GUN: type "shoot" and then the target. "shootheadcrab", "shootvortigaunt", "shootself", etc.
+TO SHOOT GUN: type "shoot" and then the target. "shootheadcrab," "shootvortigaunt," etc.
 
-TO USE THINGS (like pressing buttons, climbing ladders, etc "useladder", "usebutton", "usecrowbar", etc.
+TO USE THINGS (like pressing buttons, climbing ladders, etc "useladder," "usebutton," "usemicrowave," etc.
 
 TO HIT THINGS WITH CROWBAR: "hitheadcrab", "hitself", "hitcrate", etc.
 
-=========={STORY}==========
+=========={STORY (if you've played half life before, feel free to skip this.)}==========
 
 You are in a tram, late for work. at the Black Mesa research facility, in New Mexico. You are Gordon Freeman, a 27 year old theoretical physicist who graduated from MIT. From the speakers in the roof, a voice speaks.
 
