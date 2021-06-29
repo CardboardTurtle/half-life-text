@@ -1,8 +1,6 @@
 =========={THANK YOU FOR DOWNLOADING MY GAME!}==========
 As a fan of the Half Life series and old text adventure games from the 80's, I wanted to combine the two and make "Half-Life Text." Plus, I'm just starting out with programming, so I needed something simple to create for practice, but also something that I could be proud of.
 
-This game was entirely written in the C programming language, and from a beginner programmer who, when this project started, only had a week or two experience. This game is a testament to how good the C programming language is. it is the best language. do not question me on this, or else I will be moderately upset.
-
 Also, use Linux.
 
 =========={HOW TO COMPILE AND RUN THE GAME}==========
